@@ -1,2 +1,2 @@
-# crispy-succotash
-print(" Hello world ")
+# crispy-succotas
+cool~
