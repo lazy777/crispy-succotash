@@ -1,2 +1,2 @@
 # crispy-succotash
-understand！！！
+print(" Hello world ")
